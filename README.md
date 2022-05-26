@@ -1,2 +1,8 @@
 # AutoGLCM
-Automated GLCM-Based Feature Extraction
+**Automated GLCM-Based Features Extraction From Pixel Data**
+
+
+The model releases the following material after implementation:
+
+1. AutoGLCM.csv
+
